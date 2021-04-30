@@ -1,0 +1,24 @@
+---
+title: Title
+output: html_document
+---
+
+Ok, so this is me
+
+```{r, echo=FALSE, out.width='50%', fig.align='center'}
+knitr::include_graphics('images/Bilde2_cut.jpg')
+```
+
+Bla, bla
+
+<div style= "float:left;position: relative; right: 30px; top: -7px;">
+```{r echo=FALSE, out.width="100px", fig.align='left'}
+
+knitr::include_graphics("images/Bilde2_cut.jpg") 
+
+```
+</div>
+
+sdfsfh sdfhs slskdf  sdlfkb sldbl lbnsdglkbnsldfblnslk s sdfklbn sdb lsdfnb sdfb lnk sdfblkn sdfbl sdfbl knsdfblkdnfb sldkfnb sldfknb sldkfnb sldfnb sldfnb sldfnb sldfnb lsdfnb lskdfnb lsdfnb slkfnblsdfn blskdfnb lskdfn bls
+
+
